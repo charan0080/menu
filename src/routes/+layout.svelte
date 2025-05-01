@@ -18,7 +18,7 @@
         <li><a class="text-blue-500 hover:underline" href="/courses/online">Courses</a></li>
         <li><a class="text-blue-500 hover:underline" href="/details">details</a></li>
       </ul>
-    </div>
+    </div>     
 
     
     <main class="w-3/4 p-6">
