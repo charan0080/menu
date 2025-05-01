@@ -12,7 +12,7 @@
     
     <div class="w-1/4 bg-gray-200 p-4">
       <ul class="space-y-2">
-        <li><a class="text-blue-500 hover:underline" href="/home">Home</a></li>
+        <li><a class="text-blue-500 hover:underline" href="/home">Home</a></li> 
         <li><a class="text-blue-500 hover:underline" href="/about">About</a></li>
         <li><a class="text-blue-500 hover:underline" href="/contact">Contact</a></li>
         <li><a class="text-blue-500 hover:underline" href="/courses/online">Courses</a></li>
